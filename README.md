@@ -18,10 +18,10 @@ Figure 1: Series Battery Combination Circuit Diagram
 
 Figure 2: Series Battery Combination Simulation Circuit
 
-``Note: The colour of the wires can be customized as your own preferences.``
+``Note: The colour of the wires can be customised according to your own preferences.``
 
 > - Step 1: Select and drop four batteries (1.5V) and a multimeter.
-> - Step 2: Connect the terminal of batteries as shown in the above figure. (Positive terminal of one battery with the negative terminal of another.)
+> - Step 2: Connect the terminals of the batteries as shown in the above figure. (Positive terminal of one battery with the negative terminal of another.)
 > - Step 3: Connect the end positive and negative terminals of the battery pack to the appropriate probe of the multimeter
 > - Step 4: Click the **“Start Simulation”** button to see the result.
 
@@ -29,7 +29,8 @@ Figure 2: Series Battery Combination Simulation Circuit
 1.2.	Learning Reflection
 
 Write a brief note about the results of the Series Battery Combination simulation.
-
+We observed that when four 1.5V batteries are connected in series, the multimeter showed an overall voltage of 6V.
+Hence, when the batteries are connected in series, the overall voltage across the circuit is the sum of voltage of the batteries.
 
 ```
 
