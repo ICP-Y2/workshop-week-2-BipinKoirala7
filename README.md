@@ -84,7 +84,7 @@ Figure 6: Simple Simulation Circuit
 **3.1.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-when a 9V battery is connected with a resister and the resister to switch and the switch to bulb and bulb to battry. the turning the switch  on and off trun the bulb to on and off,
+When a 9V battery is connected with a resistor and the resistor to the switch and the switch to the bulb, and the bulb to the battery. Turning the switch  on and off turns the bulb on and off.
 
 ```
 
@@ -99,8 +99,8 @@ Figure 7: Using a breadboard to connect components.
 ```
 **3.2.	Learning Reflection**
 
-Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
-
+Write a brief note on the results observed while changing the resistance of the resistor in the simulation. What about the direction of the LED connected?
+We observed that when we connect the whole circuit and keep the resistance 1k ohm, the light glows brighter than keeping the resistance is 2k ohm, and when the resistance is 3k ohm light does not glow due to the high resistance. Lastly, when there is no resistance, the light glows the brightest but gets damaged. And if we change the direction of led connection, it won't glow as the anode of the bulb should connect to the positive side of the power source and the cathode should be connected to the negative side of the power source.
 
 ```
 ### 4.	Simulation 4: Simulating Voltage Divider Circuit
@@ -109,10 +109,10 @@ Create a corresponding circuit with specific components as shown in the followin
 <img width="473" height="437" alt="image" src="https://github.com/user-attachments/assets/6fbab02c-1541-4636-a86b-e34d726b4981" />
 Figure 8: Voltage Divider Circuit
   	
-Complete the provided circuit and verify Voltage divider Rule. Set 10 in Voltage and 5 as Current in the Power Supply.
+Complete the provided circuit and verify the Voltage Divider Rule. Set 10 in Voltage and 5 as Current in the Power Supply.
 
 1.	Change the Resistance Value R2 (Connected to GND/ 0 V) where R1 is set at `1 Kohm`
-2.	Calculate the Output Voltage according to Voltage Divider Formula:
+2.	Calculate the Output Voltage according to the Voltage Divider Formula:
    
 `Voltage Value Calculate together with Resistance Value with R2:`
 
