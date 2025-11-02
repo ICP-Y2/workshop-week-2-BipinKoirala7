@@ -103,7 +103,7 @@ Write a brief note on the results observed while changing the resistance of the 
 We observed that when we connect the whole circuit and keep the resistance 1k ohm, the light glows brighter than keeping the resistance is 2k ohm, and when the resistance is 3k ohm light does not glow due to the high resistance. Lastly, when there is no resistance, the light glows the brightest but gets damaged. And if we change the direction of led connection, it won't glow as the anode of the bulb should connect to the positive side of the power source and the cathode should be connected to the negative side of the power source.
 
 ```
-### 4.	Simulation 4: Simulating Voltage Divider Circuit
+### 4.	Simulation 4: Simulating a Voltage Divider Circuit
 Create a corresponding circuit with specific components as shown in the following circuit diagram and try to simulate the circuit.
 
 <img width="473" height="437" alt="image" src="https://github.com/user-attachments/assets/6fbab02c-1541-4636-a86b-e34d726b4981" />
