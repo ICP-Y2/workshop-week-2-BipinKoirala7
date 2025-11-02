@@ -2,13 +2,13 @@
 
 ## **Online Circuit Simulation**
 
-``Go to the Tinkercad Web App (https://www.tinkercad.com/), login and simulate the circuit as given requirements.``
+``Go to the Tinkercad Web App (https://www.tinkercad.com/), log in and simulate the circuit as given requirements.``
 
 ### **1.	Simulation 1: Simulating Series Battery Combination**
 
 **1.1.	Simulation**
 
-Refer to the given circuit diagrams and mentioned steps to simulate an electric circuit with a serial combination of batteries.
+Refer to the given circuit diagrams and the mentioned steps to simulate an electric circuit with a serial combination of batteries.
 
 <img width="362" height="190" alt="image" src="https://github.com/user-attachments/assets/413c199b-6001-428a-8e6d-302e0a8a8b82" />
 
@@ -30,7 +30,7 @@ Figure 2: Series Battery Combination Simulation Circuit
 
 Write a brief note about the results of the Series Battery Combination simulation.
 We observed that when four 1.5V batteries are connected in series, the multimeter showed an overall voltage of 6V.
-Hence, when the batteries are connected in series, the overall voltage across the circuit is the sum of voltage of the batteries.
+Hence, when the batteries are connected in series, the overall voltage across the circuit is the sum of the voltages of the batteries.
 
 ```
 
@@ -38,7 +38,7 @@ Hence, when the batteries are connected in series, the overall voltage across th
 
 **2.1.	Simulation**
 
-Refer to the given circuit diagrams and mentioned steps to simulate an electric circuit with a parallel combination of batteries.
+Refer to the given circuit diagrams and the mentioned steps to simulate an electric circuit with a parallel combination of batteries.
 
 <img width="357" height="220" alt="image" src="https://github.com/user-attachments/assets/43b1b93f-25aa-4899-ba29-6860fe160ddd" />
 
@@ -46,10 +46,10 @@ Figure 3: Parallel Battery Combination Circuit Diagram
 
 <img width="263" height="368" alt="image" src="https://github.com/user-attachments/assets/5ea16308-9fea-401d-8733-5bcf7c3fa577" />
 
-Figure 4: Parallel Battery Combination Simulation Circui
+Figure 4: Parallel Battery Combination Simulation Circuit
 
 > - Step 1: Select and drop four batteries (1.5V), a multimeter and a breadboard.
-> - Step 2: Connect the positive and negative terminals of the batteries as shown in the above figure. (Positive terminals of the batteries in one point and the negative terminals in another point.)
+> - Step 2: Connect the positive and negative terminals of the batteries as shown in the above figure. (Positive terminals of the batteries at one point and the negative terminals at another point.)
 > - Step 3: Connect the positive and negative terminals of the battery pack to the appropriate probe of the multimeter
 > - Step 4: Click the “Start Simulation” button to see the result.
 
@@ -57,15 +57,15 @@ Figure 4: Parallel Battery Combination Simulation Circui
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of the Parallel Battery Combination simulation.
-
+When connecting the positive and negative terminals of the battery and connecting the positive and negative terminals of the battery pack of the multimeter, it shows the current flow value is 1.5 V.
 
 ```
 ### 3.	Simulation 3: Simulating a simple electric circuit
 **3.1.	Simulating a simple electric circuit by connecting components directly.**
 
-Refer to the given circuit diagrams and mentioned steps to simulate a simple electric circuit.
+Refer to the given circuit diagrams and the mentioned steps to simulate a simple electric circuit.
 
-Create a corresponding circuit with specific components as shown in the following circuit diagram and try to simulate the circuit by changing the resistance value of the resistor. The intensity of LED light must vary while changing the resistance of the resistor.
+Create a corresponding circuit with specific components as shown in the following circuit diagram, and try to simulate the circuit by changing the resistance value of the resistor. The intensity of the LED light must vary while changing the resistance of the resistor.
 
 <img width="349" height="337" alt="image" src="https://github.com/user-attachments/assets/162c71ab-70ce-41f5-bd4d-d8a011ac6263" />
 
@@ -73,9 +73,9 @@ Figure 5: Simple Circuit Diagram
 
 <img width="403" height="186" alt="image" src="https://github.com/user-attachments/assets/5060d78c-6397-48a4-8ef5-8c81f86afd9b" />
 
-Figure 6: Simple simulation Circuit
+Figure 6: Simple Simulation Circuit
 
-> - Step 1: Select and drop a battery (9V), a resistor, an electric switch (slideswitch) and a LED.
+> - Step 1: Select and drop a battery (9V), a resistor, an electric switch (slideswitch) and an LED.
 > - Step 2: Connect the components as shown in the above figure.
 > - Step 3: Click the “Start Simulation” button and then click on the switch to see the result.
 > - Step 4: Change the resistor's resistance to see if it affects the LED's intensity. 
